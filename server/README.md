@@ -13,3 +13,8 @@
 
 ----- To down migration -------
 'npm run migrate:down'
+
+----- Endpoints ------
+1- Register/Signup ("http://localhost:3000/users/register")
+2- Login/Signin ("http://localhost:3000/users/login")
+3- Get User By Id ("http://localhost:3000/users/<id>") <id>:'can be 1,2,...'
